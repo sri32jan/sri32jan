@@ -1,16 +1,19 @@
-### Hi there 👋
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ful1e5/ful1e5/main/assets/lines.svg" width="500" height="320" />
+### Hi there 👋,It's Srijan
 
-<!--
-**sri32jan/sri32jan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on myself.
+- 🌱 I’m currently learning github collabrations.
+- 👯 I’m looking to collaborate on more in the domain of graphic designing.
+-
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 <p align="center">
+  <i>Let's connect and chat! Open to anything under the sun.</i>
+  
+  <p align="center">
+    <a href="" alt="Twitter"><img src="https://twitter.com/srijan_vaishnav" height="30" width="30"></a>     
+    <a href="https://www.linkedin.com/in/srijan-vaishnav-8ba282178" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
+    <a href="sri32jangmail.com" alt="Contact me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="30"></a>
+  </p>
+- 
 - ⚡ Fun fact: ...
 -->
