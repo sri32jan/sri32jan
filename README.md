@@ -2,8 +2,8 @@
 ### Hi there 👋,It's Srijan
 
 - 🔭 I’m currently working on myself.
-- 🌱 I’m currently learning github collabrations.
-- 👯 I’m looking to collaborate on more in the domain of graphic designing.
+- 🌱 I’m currently learning Github Collabrations.
+- 👯 I’m looking to collaborate on more in the domain of Graphic Designing.
 -
 - 💬 Ask me about ...
 - 📫 <p align="center">
@@ -14,6 +14,7 @@
     <a href="https://www.linkedin.com/in/srijan-vaishnav-8ba282178" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
     <a href="sri32jangmail.com" alt="Contact me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="30"></a>
   </p>
-- 
-- ⚡ Fun fact: ...
+
+- 😄 Pronouns : He,Him.
+- ⚡ Fun fact: ...Kuch nahi Bolotarara
 -->
