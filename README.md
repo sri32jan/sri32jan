@@ -8,7 +8,7 @@
 - 📫 <i>Let's connect and chat! Open to anything under the sun.</i>
   
   <p align="center">
-    <a href="" alt="Twitter"><img src="https://twitter.com/srijan_vaishnav" height="30" width="30"></a>     
+    <a href="https://img.icons8.com/fluency/344/twitter.png" alt="Twitter"><img src="https://twitter.com/srijan_vaishnav" height="30" width="30"></a>     
     <a href="https://www.linkedin.com/in/srijan-vaishnav-8ba282178" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
     <a href="sri32jangmail.com" alt="Contact me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="30"></a>
   </p>
