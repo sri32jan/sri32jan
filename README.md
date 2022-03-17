@@ -1,13 +1,11 @@
+# Hi,I am Srijan👋
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/ful1e5/ful1e5/main/assets/lines.svg" width="500" height="320" />
-### Hi there 👋,It's Srijan
+
 
 - 🔭 I’m currently working on myself.
 - 🌱 I’m currently learning Github Collabrations.
 - 👯 I’m looking to collaborate on more in the domain of Graphic Designing.
--
-- 💬 Ask me about ...
-- 📫 <p align="center">
-  <i>Let's connect and chat! Open to anything under the sun.</i>
+- 📫 <i>Let's connect and chat! Open to anything under the sun.</i>
   
   <p align="center">
     <a href="" alt="Twitter"><img src="https://twitter.com/srijan_vaishnav" height="30" width="30"></a>     
