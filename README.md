@@ -15,4 +15,10 @@
 
 - 😄 Pronouns : He,Him.
 - ⚡ Fun fact: ...Kuch nahi Bolotarara
--->
+
+
+
+
+
+
+- [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sri32jan?cardType=level&theme=dark)](https://git.io/awesome-stats-card)
